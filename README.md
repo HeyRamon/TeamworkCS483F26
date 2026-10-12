@@ -30,27 +30,16 @@ Each team should submit its contribution through a **pull request**. At the end,
 1. The professor will assign you to a group
 2. Go around introducing your self and sharing your level of familiarity with Git.
 3. Explain each other how have you used Git in the past and what do we mean by "Students must **not** commit directly to `main`." and "Each team should submit its contribution through a **pull request**".
-4. Fill out the fist columns of the table on the written ICA.
+4. Fill out the table on the written ICA and handle the piece of paper back to Prof. Diazh so she can give repository permissions to allow your team members to push their own branches and open pull requests.
 
 ## 3. Assign team roles
 
 Each student should have a role so that everyone has a responsibility, so select one of the following roles. We will rotate the roles during the activity if time allows.
 
-1\. Team coordinator
-
-Organizes tasks, checks that everyone understands the plan, and helps the team communicate. 
-
-2\. Git workflow lead
-
-Checks branch names, verifies that teammates are working on the correct branches, and helps resolve Git problems. 
-
-3\. Main Reviewer 
-
-Reviews pull requests, checks quality, and verifies that contributions fit the project. 
-
-4\. Contributors (all team members)
-
-Implement the assigned content, commit changes, and push their branches. Peer review and approves pull requests.
+1. **Team coordinator:** Organizes tasks, checks that everyone understands the plan, and helps the team communicate. 
+2. **Git workflow lead:** Checks branch names, verifies that teammates are working on the correct branches, and helps resolve Git problems. 
+3. **Main Reviewer:** Reviews pull requests, checks quality, and verifies that contributions fit the project. 
+4. **Contributors (all team members):** Implement the assigned content, commit changes, and push their branches. Peer review and approves pull requests.
 
 Important: these are **coordination roles**, not exclusive permissions. Every student should execute Git commands themselves.
 
